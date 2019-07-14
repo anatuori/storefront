@@ -1,13 +1,13 @@
 {
-  "name": "Minha Loja",
-  "short_name": "MinhaLoja",
-  "description": "Minha loja demo nota 10",
-  "lang": "pt_br",
   "primary_color": "#e83e8c",
-  "secondary_color": "#333333",
   "bg_color": "#ffffff",
   "logo": "/img/uploads/logo.png",
+  "name": "Ana Tuori Vestidos de Festa",
+  "short_name": "anatuori",
+  "lang": "pt_br",
+  "favicon": "/img/uploads/favicon.png",
+  "secondary_color": "#333333",
   "icon": "/img/uploads/icon.png",
-  "large_icon": "/img/uploads/large-icon.png",
-  "favicon": "/img/uploads/favicon.png"
+  "description": "Minha loja demo nota 10",
+  "large_icon": "/img/uploads/large-icon.png"
 }
